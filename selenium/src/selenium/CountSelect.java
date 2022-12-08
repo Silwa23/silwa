@@ -11,7 +11,7 @@ public class CountSelect {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		// TODO Auto-generated method stub
+
 		System.setProperty("webdriver.gecko.driver","./software/geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("file:///C:/Users/ADMIN/Desktop/Checkbox.html");
